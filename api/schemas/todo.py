@@ -15,4 +15,4 @@ class PutTodo(BaseModel):
 	completed: bool | None
 
 class CompleteTodo(BaseModel):
-	completed: bool
+	completed: bool 
